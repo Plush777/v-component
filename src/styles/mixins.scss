@@ -1,0 +1,24 @@
+/* font */
+@mixin font($size, $family, $color) {
+    font-size: $size; font-family: $family; color: $color;
+}
+
+/* flex align */
+@mixin fai($align) {
+    display: flex; align-items: $align;
+}
+
+/* flex justify-content */
+@mixin fjc($justify) {
+    display: flex; justify-content: $justify;
+}
+
+/* flex direction*/
+@mixin fdir($direction) {
+    display: flex; flex-direction: $direction;
+}
+  
+/* flex row */
+@mixin flexRow($justify, $align) {
+    display: flex; justify-content: $justify; align-items: $align;
+}

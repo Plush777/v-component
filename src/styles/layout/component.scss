@@ -1,0 +1,22 @@
+body{background-color: #121212; 
+    &::-webkit-scrollbar{display: none;}
+}
+
+#container{width: 100%; max-width: 768px; margin: 0 auto; padding: 85px 10px 30px 10px;}
+
+.btn{flex: 1; height: 50px; @include flexRow(center,center); font-size: 16px; border-radius: 6px;
+    &.positive{color: #fff; background-color: #DC3C50;}
+    &.denial{color: #fff; background-color: #444;}
+    &.open{width: 100%; max-width: 150px; margin: 0 auto; color: #000; background-color: #fff;}
+}
+
+.btnCounter{width: 120px; height: 40px; border-radius: 4px; @include font(16px,'Noto Sans',#000); 
+background-color: rgba($color: #fff, $alpha: 0.95);
+    &.active{color: #fff; background-color: blue;}
+}
+
+.codeArea{
+    >pre{white-space: pre-wrap; margin: 0; 
+        code{overflow-y: auto; max-height: 600px;}
+    }
+}

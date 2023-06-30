@@ -1,0 +1,198 @@
+@font-face {
+    font-family: 'Noto Sans Light';
+    font-style: normal;
+    font-weight: 300;
+    font-display: block;
+    src: url(@/font/notoSans/woff/NotoSansKR-Light-Hestia.woff) format("woff");
+}
+  
+@font-face {
+    font-family: 'Noto Sans DemLight';
+    font-style: normal;
+    font-weight: 350;
+    font-display: block;
+    src: url(@/font/notoSans/woff/NotoSansKR-DemiLight-Hestia.woff) format("woff");
+}
+  
+@font-face {
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-display: block;
+    src: url(@/font/notoSans/woff/NotoSansKR-Regular-Hestia.woff) format("woff");
+}
+  
+@font-face {
+    font-family: 'Noto Sans Medium';
+    font-style: normal;
+    font-weight: 500;
+    font-display: block;
+    src: url(@/font/notoSans/woff/NotoSansKR-Medium-Hestia.woff) format("woff");
+}
+  
+@font-face {
+    font-family: 'Noto Sans Bold';
+    font-style: normal;
+    font-weight: 700;
+    font-display: block;
+    src: url(@/font/notoSans/woff/NotoSansKR-Bold-Hestia.woff) format("woff");
+}
+
+
+/* pretendard */
+
+@font-face {
+    font-family: 'pre black';
+    font-style: normal;
+    font-weight: 400;
+    font-display: block;
+    src: url(@/font/pretendard/woff/Pretendard-Black.woff) format("woff");
+}
+
+@font-face {
+    font-family: 'pre Bold';
+    font-style: normal;
+    font-weight: 600;
+    font-display: block;
+    src: url(@/font/pretendard/woff/Pretendard-Bold.woff) format("woff");
+}
+
+@font-face {
+    font-family: 'pre ExtraBold';
+    font-style: normal;
+    font-weight: 600;
+    font-display: block;
+    src: url(@/font/pretendard/woff/Pretendard-ExtraBold.woff) format("woff");
+}
+
+@font-face {
+    font-family: 'pre ExtraLight';
+    font-style: normal;
+    font-weight: 300;
+    font-display: block;
+    src: url(@/font/pretendard/woff/Pretendard-ExtraLight.woff) format("woff");
+}
+
+@font-face {
+    font-family: 'pre Light';
+    font-style: normal;
+    font-weight: 300;
+    font-display: block;
+    src: url(@/font/pretendard/woff/Pretendard-Light.woff) format("woff");
+}
+
+@font-face {
+    font-family: 'pre Medium';
+    font-style: normal;
+    font-weight: 500;
+    font-display: block;
+    src: url(@/font/pretendard/woff/Pretendard-Medium.woff) format("woff");
+}
+
+@font-face {
+    font-family: 'pre Regular';
+    font-style: normal;
+    font-weight: 400;
+    font-display: block;
+    src: url(@/font/pretendard/woff/Pretendard-Regular.woff) format("woff");
+}
+
+@font-face {
+    font-family: 'pre SemiBold';
+    font-style: normal;
+    font-weight: 600;
+    font-display: block;
+    src: url(@/font/pretendard/woff/Pretendard-SemiBold.woff) format("woff");
+}
+
+@font-face {
+    font-family: 'pre Thin';
+    font-style: normal;
+    font-weight: 300;
+    font-display: block;
+    src: url(@/font/pretendard/woff/Pretendard-Thin.woff) format("woff");
+}
+
+
+/* roboto */
+
+@font-face {
+    font-family: 'roboto Regular';
+    font-style: normal;
+    font-weight: 400;
+    font-display: block;
+    src: url(@/font/roboto/woff/Roboto-Regular.woff) format("woff");
+}
+
+/* montserrat */
+@font-face {
+    font-family: 'mont Black';
+    font-style: normal;
+    font-weight: 400;
+    font-display: block;
+    src: url(@/font/montserrat/woff/Montserrat-Black.woff) format("woff");
+}
+
+@font-face {
+    font-family: 'mont Bold';
+    font-style: normal;
+    font-weight: 400;
+    font-display: block;
+    src: url(@/font/montserrat/woff/Montserrat-Bold.woff) format("woff");
+}
+
+@font-face {
+    font-family: 'mont ExtraBold';
+    font-style: normal;
+    font-weight: 400;
+    font-display: block;
+    src: url(@/font/montserrat/woff/Montserrat-ExtraBold.woff) format("woff");
+}
+
+@font-face {
+    font-family: 'mont ExtraLight';
+    font-style: normal;
+    font-weight: 400;
+    font-display: block;
+    src: url(@/font/montserrat/woff/Montserrat-ExtraLight.woff) format("woff");
+}
+
+@font-face {
+    font-family: 'mont Light';
+    font-style: normal;
+    font-weight: 400;
+    font-display: block;
+    src: url(@/font/montserrat/woff/Montserrat-Light.woff) format("woff");
+}
+
+@font-face {
+    font-family: 'mont Medium';
+    font-style: normal;
+    font-weight: 400;
+    font-display: block;
+    src: url(@/font/montserrat/woff/Montserrat-Medium.woff) format("woff");
+}
+
+@font-face {
+    font-family: 'mont Regular';
+    font-style: normal;
+    font-weight: 400;
+    font-display: block;
+    src: url(@/font/montserrat/woff/Montserrat-Regular.woff) format("woff");
+}
+
+@font-face {
+    font-family: 'mont SemiBold';
+    font-style: normal;
+    font-weight: 400;
+    font-display: block;
+    src: url(@/font/montserrat/woff/Montserrat-SemiBold.woff) format("woff");
+}
+
+@font-face {
+    font-family: 'mont Thin';
+    font-style: normal;
+    font-weight: 400;
+    font-display: block;
+    src: url(@/font/montserrat/woff/Montserrat-Thin.woff) format("woff");
+}

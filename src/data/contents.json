@@ -1,0 +1,34 @@
+{
+    "content0": {
+        "id": 0,
+        "name": "세팅"
+    },
+    "content1": {
+        "id": 1,
+        "name": "카운터"
+    },
+    "content2": {
+        "id": 2,
+        "name": "토글"
+    },
+    "content3": {
+        "id": 3,
+        "name": "탭"
+    },
+    "content4": {
+        "id": 4,
+        "name": "모달"
+    },
+    "content5": {
+        "id": 5,
+        "name": "아코디언"
+    },
+    "content6": {
+        "id": 6,
+        "name": "사이드바"
+    },
+    "content7": {
+        "id": 7,
+        "name": "토스트 팝업"
+    }
+}
